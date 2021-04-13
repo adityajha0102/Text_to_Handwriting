@@ -14,7 +14,7 @@
 
 #### After installing all the packages replace the text provided in black.txt in File folder and just run the code. Your output will be ready.
 
-## Working
+## Working Principal
 
 #### Basically the project works by reading each character in the text provided in black.txt and mapping an image instead of it in a blank a4 size sheet. It further creates a pdf of the output images.
 
